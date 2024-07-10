@@ -159,7 +159,7 @@ blockquote {
 }
 
 .how-to {
-  padding: 40px 20px 30px;
+  padding: 40px 20px 27px;
 }
 
 .cards-list {
@@ -200,7 +200,7 @@ blockquote {
   font-weight: 500;
   line-height: 29.7px;
   letter-spacing: normal;
-  margin-top: 8px;
+  margin-top: 7px;
 }
 
 .card_text-only .card__title {
@@ -212,7 +212,7 @@ blockquote {
   font-weight: 400;
   line-height: 21.6px;
   letter-spacing: normal;
-  margin-top: 8px;
+  margin-top: 7px;
 }
 
 .footer {
